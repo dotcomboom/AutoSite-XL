@@ -156,19 +156,19 @@
     <value>63, 22</value>
   </data>
   <data name="SaveBtn.Text" xml:space="preserve">
-    <value>Zapisz</value>
+    <value>Salvar</value>
   </data>
   <data name="SaveToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>115, 22</value>
   </data>
   <data name="SaveToolStripMenuItem.Text" xml:space="preserve">
-    <value>Zapisz</value>
+    <value>Salvar</value>
   </data>
   <data name="SaveAllToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>115, 22</value>
   </data>
   <data name="SaveAllToolStripMenuItem.Text" xml:space="preserve">
-    <value>Zapisz wszystko</value>
+    <value>Salvar Tudo</value>
   </data>
   <data name="Sep.Size" type="System.Drawing.Size, System.Drawing">
     <value>6, 25</value>
@@ -180,7 +180,7 @@
     <value>23, 22</value>
   </data>
   <data name="UndoBtn.Text" xml:space="preserve">
-    <value>Cofnij</value>
+    <value>Desfazer</value>
   </data>
   <data name="RedoBtn.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value>Magenta</value>
@@ -189,7 +189,7 @@
     <value>23, 22</value>
   </data>
   <data name="RedoBtn.Text" xml:space="preserve">
-    <value>Powtórz</value>
+    <value>Refazer</value>
   </data>
   <data name="Sep2.Size" type="System.Drawing.Size, System.Drawing">
     <value>6, 25</value>
@@ -201,7 +201,7 @@
     <value>23, 22</value>
   </data>
   <data name="CutBtn.Text" xml:space="preserve">
-    <value>Wytnij</value>
+    <value>Recortar</value>
   </data>
   <data name="CopyBtn.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value>Magenta</value>
@@ -210,7 +210,7 @@
     <value>23, 22</value>
   </data>
   <data name="CopyBtn.Text" xml:space="preserve">
-    <value>Kopiuj</value>
+    <value>Copiar</value>
   </data>
   <data name="PasteBtn.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value>Magenta</value>
@@ -219,7 +219,7 @@
     <value>23, 22</value>
   </data>
   <data name="PasteBtn.Text" xml:space="preserve">
-    <value>Wklej</value>
+    <value>Colar</value>
   </data>
   <data name="CloseBtn.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -237,7 +237,7 @@
     <value>23, 22</value>
   </data>
   <data name="CloseBtn.Text" xml:space="preserve">
-    <value>Zamknij</value>
+    <value>Fechar</value>
   </data>
   <data name="Sep3.Size" type="System.Drawing.Size, System.Drawing">
     <value>6, 25</value>
@@ -249,7 +249,7 @@
     <value>23, 22</value>
   </data>
   <data name="Find.Text" xml:space="preserve">
-    <value>Znajdź</value>
+    <value>Encontrar</value>
   </data>
   <data name="GTo.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value>Magenta</value>
@@ -258,7 +258,7 @@
     <value>23, 22</value>
   </data>
   <data name="GTo.Text" xml:space="preserve">
-    <value>Idź do</value>
+    <value>Ir Para</value>
   </data>
   <data name="Replace.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value>Magenta</value>
@@ -267,7 +267,7 @@
     <value>23, 22</value>
   </data>
   <data name="Replace.Text" xml:space="preserve">
-    <value>Zamień</value>
+    <value>Substituir</value>
   </data>
   <data name="QuickInsert.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value>Magenta</value>
@@ -276,7 +276,7 @@
     <value>23, 22</value>
   </data>
   <data name="QuickInsert.Text" xml:space="preserve">
-    <value>Szybkie wstawianie</value>
+    <value>Inserção Rápida</value>
   </data>
   <data name="Sep4.Size" type="System.Drawing.Size, System.Drawing">
     <value>6, 25</value>
@@ -288,13 +288,13 @@
     <value>80, 22</value>
   </data>
   <data name="Preview.Text" xml:space="preserve">
-    <value>Podgląd</value>
+    <value>Visualizar</value>
   </data>
   <data name="LivePreview.Size" type="System.Drawing.Size, System.Drawing">
     <value>139, 22</value>
   </data>
   <data name="LivePreview.Text" xml:space="preserve">
-    <value>Podgląd na żywo</value>
+    <value>Visualização em tempo real</value>
   </data>
   <data name="Sep5.Size" type="System.Drawing.Size, System.Drawing">
     <value>6, 25</value>
@@ -306,7 +306,7 @@
     <value>54, 22</value>
   </data>
   <data name="Build.Text" xml:space="preserve">
-    <value>Zbuduj</value>
+    <value>Construir</value>
   </data>
   <data name="ViewOutput.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
     <value>Magenta</value>
@@ -315,13 +315,13 @@
     <value>105, 22</value>
   </data>
   <data name="ViewOutput.Text" xml:space="preserve">
-    <value>Wyświetl dane wyjściowe</value>
+    <value>Ver Saída</value>
   </data>
   <data name="ViewinDefaultBrowser.Size" type="System.Drawing.Size, System.Drawing">
     <value>198, 22</value>
   </data>
   <data name="ViewinDefaultBrowser.Text" xml:space="preserve">
-    <value>Wyświetl w domyślnej przeglądarce</value>
+    <value>Visualizar no Navegador Padrão</value>
   </data>
   <metadata name="Autocomplete.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>213, 17</value>
@@ -470,34 +470,34 @@
     <value>119, 17</value>
   </metadata>
   <data name="Undo.Text" xml:space="preserve">
-    <value>Cofnij</value>
+    <value>Desfazer</value>
   </data>
   <data name="Redo.Text" xml:space="preserve">
-    <value>Powtórz</value>
+    <value>Refazer</value>
   </data>
   <data name="ConSep.Text" xml:space="preserve">
     <value>-</value>
   </data>
   <data name="Cut.Text" xml:space="preserve">
-    <value>Wytnij</value>
+    <value>Recortar</value>
   </data>
   <data name="Copy.Text" xml:space="preserve">
-    <value>Kopiuj</value>
+    <value>Copiar</value>
   </data>
   <data name="Paste.Text" xml:space="preserve">
-    <value>Wklej</value>
+    <value>Colar</value>
   </data>
   <data name="ConSep2.Text" xml:space="preserve">
     <value>-</value>
   </data>
   <data name="SelectAll.Text" xml:space="preserve">
-    <value>Zaznacz wszystko</value>
+    <value>Selecionar Todos</value>
   </data>
   <data name="ConSep3.Text" xml:space="preserve">
     <value>-</value>
   </data>
   <data name="InsertConditional.Text" xml:space="preserve">
-    <value>Wstaw warunek...</value>
+    <value>Inserir Condicional...</value>
   </data>
   <metadata name="PreviewWorker.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>475, 17</value>

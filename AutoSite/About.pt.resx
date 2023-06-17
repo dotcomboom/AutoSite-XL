@@ -247,7 +247,7 @@ Copyright (C) Pavel Torgashov, 2011-2016. </value>
     <value>1</value>
   </data>
   <data name="OK.Text" xml:space="preserve">
-    <value>Aceptar</value>
+    <value>OK</value>
   </data>
   <data name="&gt;&gt;OK.Name" xml:space="preserve">
     <value>OK</value>
@@ -364,7 +364,7 @@ Copyright (C) Pavel Torgashov, 2011-2016. </value>
     <value>5</value>
   </data>
   <data name="WebsiteLink.Text" xml:space="preserve">
-    <value>Sitio Web</value>
+    <value>Website</value>
   </data>
   <data name="WebsiteLink.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -648,7 +648,7 @@ Copyright (C) Pavel Torgashov, 2011-2016. </value>
     <value>1</value>
   </data>
   <data name="Changelog.Text" xml:space="preserve">
-    <value>Cambios</value>
+    <value>Changelog</value>
   </data>
   <data name="&gt;&gt;Changelog.Name" xml:space="preserve">
     <value>Changelog</value>
@@ -759,7 +759,7 @@ Copyright (C) Pavel Torgashov, 2011-2016. </value>
     <value>CenterParent</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Acerca de AutoSite</value>
+    <value>Sobre o AutoSite</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>About</value>
